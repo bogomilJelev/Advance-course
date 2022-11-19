@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Same Values in Array", "Count Same Values in Array.csproj", "{88EF816B-8E8B-493E-BF9B-1E3841BF7F5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sets of Elements", "..\Sets of Elements\Sets of Elements.csproj", "{9F2B5DF0-08BA-4A31-8F9F-43B579398D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Periodic Table", "..\Periodic Table\Periodic Table.csproj", "{534DC4DB-C0F4-453A-A7D8-14F4BD8D951D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even Times", "..\Even Times\Even Times.csproj", "{CB0D377C-1E78-445C-A146-9E459DE0A072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Symbols", "..\Count Symbols\Count Symbols.csproj", "{26952F4D-863A-436E-ACAB-8DCCA91D3F30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88EF816B-8E8B-493E-BF9B-1E3841BF7F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EF816B-8E8B-493E-BF9B-1E3841BF7F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EF816B-8E8B-493E-BF9B-1E3841BF7F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EF816B-8E8B-493E-BF9B-1E3841BF7F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F2B5DF0-08BA-4A31-8F9F-43B579398D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2B5DF0-08BA-4A31-8F9F-43B579398D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F2B5DF0-08BA-4A31-8F9F-43B579398D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F2B5DF0-08BA-4A31-8F9F-43B579398D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{534DC4DB-C0F4-453A-A7D8-14F4BD8D951D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534DC4DB-C0F4-453A-A7D8-14F4BD8D951D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534DC4DB-C0F4-453A-A7D8-14F4BD8D951D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534DC4DB-C0F4-453A-A7D8-14F4BD8D951D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB0D377C-1E78-445C-A146-9E459DE0A072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB0D377C-1E78-445C-A146-9E459DE0A072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB0D377C-1E78-445C-A146-9E459DE0A072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB0D377C-1E78-445C-A146-9E459DE0A072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26952F4D-863A-436E-ACAB-8DCCA91D3F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26952F4D-863A-436E-ACAB-8DCCA91D3F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26952F4D-863A-436E-ACAB-8DCCA91D3F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26952F4D-863A-436E-ACAB-8DCCA91D3F30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C37A1EDB-49B4-4756-8DC7-A9FAADA60EA4}
+	EndGlobalSection
+EndGlobal
